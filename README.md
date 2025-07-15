@@ -35,7 +35,7 @@ Azure Firewall deployed with a Basic SKU is designed for small to medium-sized b
 
 #### Network Diagram
 
-‘See attached full page document’
+<img width="1600" height="1200" alt="azureFirewallBasic" src="https://github.com/user-attachments/assets/ca5d2ba1-ff4a-41e7-baab-cad0771219c1" />
 
 ### Components Description
 
