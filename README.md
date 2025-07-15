@@ -85,8 +85,7 @@ For more information on Azure pricing, please refer to the Microsoft website: [A
 The following prerequisites are required for a successful deployment of the Azure firewall.
 
 - **Azure Subscription:** A valid Azure subscription is required for deployment.
-- **Bicep Installation:** Azure CLI and Bicep CLI are required to be installed on the workstation environment being used to deploy the firewall templates.
-- **Required Permissions:** A user account with the RBAC role of ‘contributor’ on the target Azure subscription is necessary for deployment of the Azure firewall and associated resources.
+- **Required Permissions:** A user account with the RBAC role of ‘contributor’ or 'owner' on the target Azure subscription is necessary for deployment of the Azure firewall and associated resources from Azure Marketplace.
 
 ## Deployment Steps
 
